@@ -1,0 +1,13 @@
+{
+    "name": "html.element-kinds",
+    "url" : "https://github.com/skial/html.element-kinds",
+    "license": "MIT",
+    "tags": ["html", "element", "kind"],
+    "description": "A simple enum abstract of Html element kinds.",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "Initial release.",
+    "contributors": ["skial"],
+    "dependencies": {
+    }
+  }
